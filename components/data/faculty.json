@@ -1,0 +1,93 @@
+[
+    {
+        "id":0,
+        "name":"Prof. Jaydeep Barad",
+        "email":"jaydeep.barad@scet.ac.in",
+        "number":"+91 98255 74926 ",
+        "number1":"0261-2240146-302",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_JB-150x150.jpg",
+        "duties":"Assistant Professor",
+        "sub":"Computer Programming and Utilization(CPU), Principles of Programming Languages(PPL), Core Java, Analysis and Design of Algorithm, Cyber Security , PHP."
+    },    
+    {
+        "id":1,
+        "name":"Prof. (Dr.) Pariza Kamboj",
+        "email":"pariza.kamboj@scet.ac.in",
+        "number":"0261-2240146-302",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_ParizaKamboj.jpg",
+        "duties":"Professor and Head of Department",
+        "sub":"Data Science, Python for Data science, Big Data Analytics, IoT, Machine Learning, Deep Learning, IoT, WSN, Mobile Ad-hoc Networks, Computer Networks, Network Security, Mobile Computing, Python, Advance Java, Core Java."
+    },    
+    {
+        "id":2,
+        "name":"Prof. (Dr.) Keyur Rana",
+        "email":"keyur.rana@scet.ac.in",
+        "number":"0261-2240146-303",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_KeyurRana.jpg",
+        "duties":"Professor, Dean Student Activity and Welfare Council",
+        "sub":"Computer Networks, Artificial Intelligence, Genetic Algorithm, Wireless Sensor Network, Data Structure and Algorithms"
+    },    
+    {
+        "id":3,
+        "name":"Prof. (Dr.) Mayuri Mehta",
+        "email":"mayuri.mehta@scet.ac.in",
+        "number":"0261-2240146-303",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_MayuriMehta1.jpg",
+        "duties":"Professor and PG In-Charge",
+        "sub":" Data Science, Machine Learning/Deep Learning, Health Informatics, Computer Algorithms, Python Programming, Research Methodology, Distributed Computing, Genetic Algorithms."
+    },    
+    {
+        "id":4,
+        "name":"Prof. (Dr.) Dipali Kasat",
+        "email":"dipali.kasat@scet.ac.in",
+        "number":"0261-2240146-303",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_DipaliKasat.jpg",
+        "duties":"Associate Professor",
+        "sub":"IPR , Computer Vision, Image/Video Processing, Information security, Information theory and coding, Information Retrieval, Data Mining"
+    },    
+    {
+        "id":5,
+        "name":"Prof. Bintu Kadhiwala",
+        "email":"bintu.kadhiwala@scet.ac.in",
+        "number":"0261-2240146-303",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_BintuKadhiwala.jpg",
+        "duties":"Assistant Professor",
+        "sub":"Information Security, Data Mining and Business Intelligence, Design and Analysis of Algorithms,  Computer Graphics, Theory of Computation, Computer Programming and Utilization"
+    },    
+    {
+        "id":6,
+        "name":"Prof. Snehal Gandhi",
+        "email":"snehal.gandhi@scet.ac.in",
+        "number":"0261-2240146-302",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_SnehalGandhi.jpg",
+        "duties":"Assistant Professor",
+        "sub":"Database Management System, Data Mining and Business Intelligence, Software Engineering, Object Oriented Analysis Design with UML, Computer Programming and Utilization, Programming for Problem Solving, Computer Graphics"
+    },    
+    {
+        "id":7,
+        "name":"Prof. Urmi Desai",
+        "email":"urmi.desai@scet.ac.in",
+        "number":"0261-2240146-302",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_UrmiDesai.jpg",
+        "duties":"Assistant Professor",
+        "sub":"Information Security, Web Technology, Object Oriented Programming, Data and File Structure"
+    },    
+    {
+        "id":8,
+        "name":"Prof. Bhumika Shah",
+        "email":"bhumika.shah@scet.ac.in",
+        "number":"0261-2240146-302",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_BhumikaShah.jpg",
+        "duties":"Assistant Professor",
+        "sub":"Artificial Intelligence , Compiler Design, Natural Language Processing, Image Processing, Data Structures, Object Oriented Programming with C++, Operating System, System Programming"
+    },    
+    {
+        "id":9,
+        "name":"Prof. Jaydeep J. Gheewala",
+        "email":"jaydeep.gheewala@scet.ac.in",
+        "number":"0261-2240146-302",
+        "image":"https://scet.ac.in/wp-content/uploads/2014/07/CO_JaydeepGheewala.jpg",
+        "duties":"Assistant Professor",
+        "sub":"Information Security(IS), Digital Logic Design(DLD), Computer Programming and Utilization(CPU), Principles of Programming Languages(PPL)"
+    }
+]
